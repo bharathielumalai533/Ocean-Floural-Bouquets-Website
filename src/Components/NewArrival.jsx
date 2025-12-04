@@ -65,7 +65,7 @@ const NewArrival = () => {
       {/* Header row */}
       <div className="flex items-baseline justify-between mb-6 gap-4">
         <h2 className="font-serif text-[1.9rem] sm:text-[2.2rem] text-[#1f4d37]">
-          Flower Bouquets
+          Fresh Flower Bouquets
         </h2>
 
         

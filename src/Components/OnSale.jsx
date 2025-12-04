@@ -4,25 +4,31 @@ import React from "react";
 const products = [
   {
     id: 1,
-    name: "Events Hall Deceration",
+    name: "Garland",
     image:
-      "https://i.pinimg.com/originals/9c/01/f5/9c01f50987a59c007d04c0a768fd6ebd.jpg",
+      "https://i.pinimg.com/736x/37/e5/3b/37e53be84d55d949d18e9f8fa7e68569.jpg",
   },
   {
     id: 2,
-    name: "Car Decration",
+    name: "Car Desecration",
     image:
       "https://cdn.balloondekor.com/15/1739887278936.webp",
   },
   {
     id: 3,
-    name: "Custom Gifts",
+    name: "Events Hall Desecration",
+    image:
+      "https://i.pinimg.com/originals/9c/01/f5/9c01f50987a59c007d04c0a768fd6ebd.jpg",
+  },
+  {
+    id: 4,
+    name: "Customised Gifts",
     image:
       "https://cdnnew.igp.com/f_auto,q_auto,t_pnopt12prodlp/products/p-personalized-wiser-and-bolder-gift-set-406071-m.jpg",
   },
   {
-    id: 4,
-    name: "Flower Bouquet",
+    id: 5,
+    name: "Customised Flower Bouquet",
     image:
       "https://apis.xogrp.com/media-api/images/2b89c14a-70ca-11e4-843f-22000aa61a3e",
   },

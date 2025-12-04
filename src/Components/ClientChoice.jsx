@@ -35,7 +35,7 @@ const products = [
   },
   {
     id: 6,
-    name: "Stationery",
+    name: "stationary",
     image:
       "https://th.bing.com/th/id/R.6d6aa558aa5eac599b077400295d7ef3?rik=PKQZDJiqN%2fIZig&riu=http%3a%2f%2fwww.chaarpai.com%2fcdn%2fshop%2fproducts%2f24_5111e7ac-5b71-4099-80bd-536bd666523f.jpg%3fv%3d1672480946&ehk=XHOf%2fJN6UZJUZnUE0kFatn078z7sUiMExS68lqV7RQs%3d&risl=&pid=ImgRaw&r=0",
   },

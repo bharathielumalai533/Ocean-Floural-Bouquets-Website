@@ -44,7 +44,7 @@ const Hero = () => {
         {/* center content */}
         <div className="relative z-10 text-center max-w-2xl px-3 sm:px-4">
           <div className="inline-flex items-center justify-center px-3 sm:px-4 py-1 mb-2 sm:mb-3 rounded-full bg-[#1b4728] text-[9px] sm:text-[10px] tracking-[0.25em] uppercase">
-            3-Hour Delivery
+            59-Minutes Delivery
           </div>
 
           <h1 className="font-serif text-2xl sm:text-3xl md:text-4xl leading-snug mb-3 sm:mb-4 md:mb-5">

@@ -8,6 +8,7 @@ import SpecialOffer from "../Components/SpecialOffer";
 import OnSale from "../Components/OnSale";
 import Review from "../Components/Review";
 import About from "../Components/About";
+import Location from "../Components/Location";
 import HowItWorks from "../Components/HowItWorks";
 import Footer from "../Components/Footer";
 
@@ -47,6 +48,8 @@ const Home = () => {
         <Review />
         <About />
         <hr />
+        <Location />
+        <br />
         <HowItWorks />
         <hr />
         <Footer />
