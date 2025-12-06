@@ -53,7 +53,7 @@ const products = [
   },
   {
     id: 9,
-    name: "Coronation Flower Bouquet",
+    name: "Carnation Flower Bouquet",
     image:
       "https://fioredorato.com.sg/cdn/shop/files/2.PeonyPerfection_2048x.jpg?v=1712543816",
   },

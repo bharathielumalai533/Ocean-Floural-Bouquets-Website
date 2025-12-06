@@ -1,22 +1,22 @@
 // src/components/NewArrival.jsx
 import React from "react";
+import img1 from "../Asserts/garland.jpg"
 
 const products = [
   {
     id: 1,
     name: "Garland",
-    image:
-      "https://i.pinimg.com/736x/37/e5/3b/37e53be84d55d949d18e9f8fa7e68569.jpg",
+    image:img1
   },
   {
     id: 2,
-    name: "Car Desecration",
+    name: "Car Decoration",
     image:
       "https://cdn.balloondekor.com/15/1739887278936.webp",
   },
   {
     id: 3,
-    name: "Events Hall Desecration",
+    name: "Events Hall Decoration",
     image:
       "https://i.pinimg.com/originals/9c/01/f5/9c01f50987a59c007d04c0a768fd6ebd.jpg",
   },

@@ -14,7 +14,7 @@ const Location = () => {
             Visit Us
           </p>
           <h2 className="font-serif text-[1.9rem] sm:text-[2.2rem] text-[#1f4d37]">
-            Our Boutique Store Location
+            Our Boutique Shop Location
           </h2>
           <p className="mt-2 text-sm sm:text-base text-[#4e6555] max-w-xl">
             Drop by our studio to explore bouquets in person or pick up your
@@ -61,8 +61,7 @@ const Location = () => {
 
             <div className="space-y-1 text-sm sm:text-base">
               <p className="font-semibold">Store Hours</p>
-              <p>Mon – Fri: 9:00 AM – 7:00 PM</p>
-              <p>Sat – Sun: 10:00 AM – 6:00 PM</p>
+              <p>27/7 we are available for you</p>
             </div>
 
             <button

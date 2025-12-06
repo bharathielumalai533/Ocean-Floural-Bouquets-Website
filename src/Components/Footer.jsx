@@ -17,13 +17,13 @@ const Footer = () => {
 
           <p className="text-sm text-[#1f4d37] leading-relaxed mb-6 max-w-sm">
             We create handcrafted flower bouquets with same‑day delivery across
-            Los Angeles. Fresh, elegant, and made with care.
+            Chennai. Fresh, elegant, and made with care.
           </p>
 
           <ul className="space-y-2 text-sm text-[#1f4d37]">
             <li>+91 95006 17604 <br /> +91 86107 91637</li>
             <li>21, Susila Nagar, Axis Bank Complex, Kelambakkam - 603103</li>
-            <li>oceanfloral_official</li>
+            <li>oceanfloral_official | B.Arunkumar BA, MBA.</li>
           </ul>
         </div>
 

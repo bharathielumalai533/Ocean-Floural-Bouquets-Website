@@ -40,7 +40,7 @@ const AboutSection = () => {
           <p className="text-[14px] lg:text-[15px] text-[#1f4d37] leading-relaxed mb-4">
             At Ocean Floral Boutique, we believe flowers do more than decorate –
             they connect, comfort, and celebrate life’s most meaningful
-            moments. Based in the heart of Los Angeles, we create elegant,
+            moments. Based in the heart of people, we create elegant,
             handcrafted bouquets designed to leave a lasting impression.
           </p>
 
